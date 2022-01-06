@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899292898065",
+    "firebase_url": "https://creativity-1589a.firebaseio.com",
+    "project_id": "creativity-1589a",
+    "storage_bucket": "creativity-1589a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899292898065:android:8eca9ac42436aabb",
+        "android_client_info": {
+          "package_name": "com.Omar.Canvas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899292898065-9coip7fjea2en3ijk05gfdpq4oc81u8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEaUcu5sDukebNHbCxi9j5yaobZPFLduc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899292898065-9coip7fjea2en3ijk05gfdpq4oc81u8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
